@@ -7,7 +7,7 @@ body {
 
 @media only screen and (max-width: 600px) {
   .logo1 {
-    width:20%;
+    width:20% !important;
   }
 }
 
